@@ -19,7 +19,7 @@ Blinkit Grocrery data: The primary dataset used for this project is "Blinkit Gro
 	2. Data Cleaning & Modeling
 	3. Data Processing & DAX Calculations
 	4. Dashboard Layout & Visualization
-  5. Insight Generation
+  	5. Insight Generation
 
   ## Key Metrics Analyzed
 	• Total Sales: $1.20M
